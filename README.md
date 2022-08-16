@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @walleford
 - 👀 I’m interested in JavaScript and Python projects.
-- 🌱 I’m currently learning Cybersecurity in college
 - 💞️ I’m looking to collaborate on maybe a web application? Idk...
 - 📫 How to reach me wallingsfordjordan@gmail.com
 
